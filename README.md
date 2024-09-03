@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
+![MasterHead]([https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmizzcode%2Fmizzcode&psig=AOvVaw384b1Ql7gRR_BQwrOfIDo8&ust=1725471574905000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCh59Sop4gDFQAAAAAdAAAAABAw))
 <h1 align="center">Hi 👋, I'm Tejaswini Gali</h1>
 <h3 align="center">A passionate frontend developer from India </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
