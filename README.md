@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsimon-zerisenay&psig=AOvVaw0eQhZZqlZH9sz5RDQuUa3P&ust=1725472310551000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiatLSrp4gDFQAAAAAdAAAAABAE)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcolorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_12821890.htm&psig=AOvVaw1jVup3g9VLiu8ZhHmO1oxi&ust=1725472376032000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjS69Orp4gDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Tejaswini Gali</h1>
 <h3 align="center">A passionate frontend developer from India </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
